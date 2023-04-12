@@ -5,7 +5,7 @@ This weather app displays current weather information for a specific city. Users
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Weather App Readme</title>
+ 
 </head>
 <body>
   <h1>Weather App</h1>
