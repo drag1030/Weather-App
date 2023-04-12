@@ -17,6 +17,6 @@ This weather app displays current weather information for a specific city. Users
   <h2>License</h2>
   <p>This app is licensed under the MIT license. See the LICENSE file for more information.</p>
   <h2>Author</h2>
-  <p>Written by [Your Name Here]</p>
+  <p>Written by Darshan Sagar</p>
 </body>
 </html>
